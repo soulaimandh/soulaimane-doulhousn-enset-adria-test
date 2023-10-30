@@ -19,3 +19,7 @@ discovery-service et config-service</h3>
 <h4>teste de gateway-service</h4>
 
 <img src="captures/Capture d’écran 2023-10-30 094348.jpg"></img>
+
+<h3>Développer et tester le micro-service wallet-service</h3>
+
+<img src="captures/Capture d’écran 2023-10-30 130747.jpg"></img>
